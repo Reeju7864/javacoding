@@ -1,0 +1,37 @@
+*{
+    /* background-color:black; */
+}
+#nav{   
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1.3rem;
+    /* background-color: navy; */
+    color: white;
+    height: 50px;
+    /* background-color: black; */
+}
+input{
+     width: 300px;
+     height: 25px;
+    border: none;
+}
+#search{
+    display: flex;
+    background-color: white;
+}
+a{
+    text-decoration: none;
+}
+i{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 30px;
+    font-size: 20px;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
